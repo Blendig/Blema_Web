@@ -21,14 +21,14 @@
                 <img src="../Project/review1.png" alt="Image">
                 <img src="../Project/review2.png" alt="Image">
                 <img src="../Project/review3.png" alt="Image">
-                <img src="../Project/review4.png" alt="Image">
-            </figure>
-            <div class="indicator"></div>
+                <img src="../Project/review4.png" alt="Image">  
+            </figure> 
+            <div class="indicator"></div> 
         </div>
         </section>
     <h1 id="location">VISIT OUR SHOPS</h1>
     <p id="scanlocation">Use your phone camera to scan the QR codes for viewing our locations on each city</p>
-    <img src="../Project/lokacionet.png"
-        </center>
+    <img src="../Project/lokacionet.png" 
+        </center> 
     </body>
 </html>
