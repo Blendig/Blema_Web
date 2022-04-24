@@ -20,7 +20,7 @@ include_once '../database/databaseConnection.php';
        		$sql = "SELECT * FROM users WHERE Email='$email'";
         
         	$statement = $connect->query($sql);
-        	$checkEmail = $statement->fetchAll();
+        	$checkEmail = $statement->fetchAll(); 
 
         	if(count($checkEmail) == 0){
             	return false;
