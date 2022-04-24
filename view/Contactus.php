@@ -24,7 +24,7 @@
 				<textarea name="message" placeholder="Message" class="field"></textarea>
 				<input class="btn" type="submit" name="contactButton" value="SEND">
 			</div>
-		</div>
+		</div>   
 	</form>
 	<?php include_once '../controllers/contactController.php';?>
 </body>
