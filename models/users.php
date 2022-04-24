@@ -1,6 +1,6 @@
 <?php
-
-	class User{
+ 
+	class User{ 
 	    private $fname;
 	    private $lname;
 	    private $username;
