@@ -22,7 +22,7 @@ include_once '../database/databaseConnection.php';
         	$statement = $connect->query($sql);
         	$checkEmail = $statement->fetchAll(); 
 
-        	if(count($checkEmail) == 0){
+        	if(count($checkEmail) == 0){ 
             	return false;
         	}else{
         		return true;
