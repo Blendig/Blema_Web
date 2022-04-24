@@ -35,7 +35,7 @@
         ?>
              <form method="post" action="">
                  <div class='inputet'>
-              <h2 class="profileText">Edit Product: </h2>
+              <h2 class="profileText">Edit Product: </h2> 
     
               <h2 class="profileText">ProductName:</h2> 
               <input class="profileText" type="text" id="productName" name="productName" value="<?=$product['ProductName']?>" readonly> <br>
