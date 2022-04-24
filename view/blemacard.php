@@ -2,7 +2,7 @@
 <head>
 <style>
     @import url('https://fonts.googleapis.com/css2?family=Orbitron&display=swap');
-</style>
+</style>  
   <title>OUR CARD</title>
   <link rel="icon" href="../Project/Logo.JPG">
   <link rel="stylesheet" href="../CSS/Blemacard.css">
@@ -25,15 +25,15 @@
       </div>
     </div>
     <ul class="sci">
-    <li><a href="https://www.facebook.com/BLEMA-online-shop-103995715490962" target="_self"><img src="../Project/facebook.png"></a></li>
-      <li><a href="https://twitter.com/BlemaOnline" target="_self"><img src="../Project/twitter.png"></a></li>
-      <li><a href="https://www.instagram.com/blemashop_online/" target="_self"><img src="../Project/instagram.png"></a></li>
+    <li><a href="https://www.facebook.com/BLEMA-online-shop-103995715490962" target="_self"><img src="../Project/facebook.png"></a></li>  
+      <li><a href="https://twitter.com/BlemaOnline" target="_self"><img src="../Project/twitter.png"></a></li>  
+      <li><a href="https://www.instagram.com/blemashop_online/" target="_self"><img src="../Project/instagram.png"></a></li>  
     </ul>
     <ul class="menu">
-      <li><a href="Index.php">Home</a>
+      <li><a href="Index.php">Home</a>   
       <li><a href="ourcollection.php">Store</a>
       <li><a href="Loacations.php">Locations</a>
-      <li><a href="team.php">Our Team</a>
+      <li><a href="team.php">Our Team</a> 
     </ul>
   </section>
   <script type="text/javascript">
