@@ -7,7 +7,7 @@
         <title>MANAGE PRODUCTS</title>
         <link rel="icon" href="../Project/Logo.JPG">
         <link rel="stylesheet" href="../CSS/Additionalitems.css"/>
-        <link rel="stylesheet" href="../CSS/dashboards.css"/>
+        <link rel="stylesheet" href="../CSS/dashboards.css"/> 
         <style>
             @import url('https://fonts.googleapis.com/css2?family=Orbitron&display=swap');
         </style>
