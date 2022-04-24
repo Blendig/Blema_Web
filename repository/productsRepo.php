@@ -5,7 +5,7 @@ include_once '../database/databaseConnection.php';
 		private $connection;
 
 		function __construct(){
-			$connect = new DatabaseConnection;
+			$connect = new DatabaseConnection; 
 			$this->connection = $connect->startConnection();
 		}
 
