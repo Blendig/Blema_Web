@@ -9,7 +9,7 @@
 			$this->productName = $productName;
 			$this->productText = $productText;
 			$this->price = $price;
-		}
+		} 
 
 		function getProductName(){
        	   	return $this->productName;
