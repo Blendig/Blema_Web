@@ -1,5 +1,5 @@
 <?php
-include_once '../repository/contactRepo.php';
+include_once '../repository/contactRepo.php'; 
 include_once '../models/contact.php';
 
     if(isset($_POST['contactButton'])){
