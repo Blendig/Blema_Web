@@ -15,7 +15,7 @@
        	   	return $this->productName;
    		}
 
-    	function getProductText(){
+    		function getProductText(){
         	return $this->productText;
    		}
 
