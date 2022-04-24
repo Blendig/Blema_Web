@@ -1,6 +1,6 @@
 <?php
 include_once '../repository/paymentRepo.php';
-include_once '../models/payment.php';
+include_once '../models/payment.php'; 
 
     if(isset($_POST['paymentButton'])){
         if(!(empty($_POST['Name'])) && !(empty($_POST['Surname'])) && !(empty($_POST['CardNo'])) &&
