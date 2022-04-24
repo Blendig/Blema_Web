@@ -7,7 +7,7 @@ const signup = document.querySelector(".signup");
         // The password should contain around 8-15 alhpanumeric character
 
         const passwordPattern = /^[a-zA-Z0-9]{8,15}$/
-
+ 
         password.addEventListener('focusin', () => {
             pwd_format.style.display = 'block';
 
