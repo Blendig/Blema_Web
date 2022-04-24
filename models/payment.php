@@ -39,7 +39,7 @@
         }
 
         function getvalidThru(){
-            return $this->validthru;
+            return $this->validthru; 
         }
 
         function getccv(){
