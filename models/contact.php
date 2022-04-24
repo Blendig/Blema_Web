@@ -15,7 +15,7 @@
 			return $this->name;
 	 }
 
-	 	function getPhone(){
+	 	function getPhone(){ 
 		return $this->phone;
  	}
 
