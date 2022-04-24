@@ -59,7 +59,7 @@ include_once '../database/databaseConnection.php';
 
 	        $sql = "SELECT * FROM products WHERE ID='$id'";
 
-	        $statement = $connect->query($sql);
+	        $statement = $connect->query($sql); 
 	        $product = $statement->fetch();
 
 	        return $product;
