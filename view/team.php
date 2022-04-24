@@ -13,7 +13,7 @@
 				<div class="content">
 					<div class="imgBx"><img src="../Project/Blendi.jpg"></div>
 					<div class="contentBx">
-						<h3>Blendi Gashi<br><span> CEO & Creative Designer</span></h3>
+						<h3>Blendi Gashi<br><span> CEO & Creative Designer</span></h3> 
 					</div>
 				</div>
 				<ul class="sci">
@@ -30,9 +30,9 @@
 					</div>
 				</div>
 				<ul class="sci">
-					<li style="--i:1"><a href="https://www.facebook.com/ema.kutllovci"><i class="fa fa-facebook"></i></a></li>
-					<li style="--i:2"><a href="https://twitter.com/_emakutllovci"><i class="fa fa-twitter"></i></a></li>
-					<li style="--i:3"><a href="https://instagram.com/_emakutllovci"><i class="fa fa-instagram"></i></a></li>
+					<li style="--i:1"><a href="https://www.facebook.com/ema.kutllovci"><i class="fa fa-facebook"></i></a></li> 
+					<li style="--i:2"><a href="https://twitter.com/_emakutllovci"><i class="fa fa-twitter"></i></a></li> 
+					<li style="--i:3"><a href="https://instagram.com/_emakutllovci"><i class="fa fa-instagram"></i></a></li> 
 				</ul>
 			</div>
 		</div>
