@@ -20,7 +20,7 @@
         </ul>
             <div class="items">
             <p class="titulli2">ADMIN PAGE</p>
-            <pre class="pershkrimi2" >Here you can manage all the data</pre> <br> <br>
+            <pre class="pershkrimi2" >Here you can manage all the data</pre> <br> <br> 
         <center>
         <img id='img' src = '../Project/Dashboardd.png'>
 
