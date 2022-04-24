@@ -27,7 +27,7 @@
         }
         </style>
     </head>
-	<center>
+	<center> 
     <body class="body8">
         <div class="header2"></div>
         <div class="nav-div2"> 
@@ -73,5 +73,5 @@
 		</div>
 	</main>
     </body>
-	</center>
+	</center> 
 </html>
