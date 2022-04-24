@@ -4,7 +4,7 @@ session_start();
 $userId = $_GET['id'];
 include_once '../repository/usersRepo.php';
 
-$userRepository = new usersRepo();
+$userRepository = new usersRepo(); 
 //marrim username te atij qe po e fshijme
 $user = $userRepository->getUserById($userId); 
 $username = $user['Username'];
