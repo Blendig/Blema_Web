@@ -5,7 +5,7 @@ include_once '../database/databaseConnection.php';
 		private $connection;
 
 		function __construct(){ 
-			$connect = new DatabaseConnection; //instanc, ja kena lon emrin e njejt si $connect te klasa dtbConnection 
+			$connect = new DatabaseConnection;  //instanc, ja kena lon emrin e njejt si $connect te klasa dtbConnection 
 												//se posht kena me barazu me $connection me $connect qe e kthen funksioni
 												//startConnection
 			$this->connection = $connect->startConnection();
