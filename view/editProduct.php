@@ -26,7 +26,7 @@
             <center>
             <img id='img' src = '../Project/Dashboardd.png'>
             <main>
-		
+		  
         <?php
             include_once '../repository/productsRepo.php'; 
             $productId = $_GET['id'];
@@ -42,12 +42,12 @@
               <h2 class="profileText">ProductText:</h2> 
               <input class="profileText" type="text" id="productText" name="productText" value="<?=$product['ProductText']?>"> <br>
               <h2 class="profileText"s>Price:</h2>
-              <input class="profileText" type="number" min="1" id="price" name="price" value="<?=$product['Price']?>"> <br> <br>
+              <input class="profileText" type="number" min="1" id="price" name="price" value="<?=$product['Price']?>"> <br> <br>  
     
-              <input class="insertButton" type="submit" name="updateProductButton" value="UPDATE PRODUCT">
+              <input class="insertButton" type="submit" name="updateProductButton" value="UPDATE PRODUCT">      
             </div>  
         </form> 
-        <?php include_once '../controllers/productController.php';?>
+        <?php include_once '../controllers/productController.php';?>    
     
         </main>
           <footer class="footer1">
