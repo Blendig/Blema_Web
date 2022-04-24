@@ -4,7 +4,7 @@ include_once '../models/products.php';
 include_once '../repository/activityRepo.php';
 $admin = $_SESSION['username'];
 
-    if(isset($_POST['insertProductButton'])){
+    if(isset($_POST['insertProductButton'])){ 
         if(empty($_POST['productName']) || empty($_POST['productText'])
          || empty($_POST['price'])){ 
         		echo "<script> alert('Fill All Fields!'); </script>";
