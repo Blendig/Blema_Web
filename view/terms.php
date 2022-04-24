@@ -21,7 +21,7 @@
         <b>Privacy Policy:</b>
         <i class="privacy">What information we collect?</i>We will ask for your name, email address, billing and shipping address and telephone numbers. We will also ask for your chosen method of payment 
         (credit card or online payment service). Your payment information is securely transferred to a third party vendor for processing.
-        <b>Defects:</b>The buyer shall not be entitled to reject any goods which are defective or do not conform to description but we shall at 
+        <b>Defects:</b>The buyer shall not be entitled to reject any goods which are defective or do not conform to description but we shall at
         our option and expense replace or refund the invoice values of any such goods.</p>
         <img src="../Project/Logo.JPG">
             </center>
