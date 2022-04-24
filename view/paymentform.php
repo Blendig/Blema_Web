@@ -26,7 +26,7 @@
           <input id="column-right" type="text" name="Surname" placeholder="Surname"/>
           <input id="input-field" type="text" name="CardNo" placeholder="Card Number"/>
           <input id="column-left" type="text" name="Expiry" placeholder="MM / YY"/>
-          <input id="column-right" type="text" name="CCV" placeholder="CCV"/>
+          <input id="column-right" type="text" name="CCV" placeholder="CCV"/>  
          
           <div class="card-wrapper"></div>
           <input id="input-field" type="text" name="Address" required="required" autocomplete="on" maxlength="45" placeholder="Street Address"/>
