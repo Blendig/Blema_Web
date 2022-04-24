@@ -6,7 +6,7 @@
 	    private $username;
 	    private $email;
 	    private $password;
-	    private $role;
+	    private $role; 
 
     	function __construct($fname,$lname,$username,$email,$password,$role){
             $this->fname = $fname;
