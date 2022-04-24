@@ -7,7 +7,7 @@
     <link rel="icon" href="../Project/Logo.JPG">
         <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
         <title>EDIT USERS</title>
-        <link rel="stylesheet" href="../CSS/additionalitems.css"/>
+        <link rel="stylesheet" href="../CSS/additionalitems.css"/> 
         <link rel="stylesheet" href="../CSS/Dashboards.css"/>
         <style>
             @import url('https://fonts.googleapis.com/css2?family=Orbitron&display=swap'); 
