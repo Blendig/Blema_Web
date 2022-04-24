@@ -18,7 +18,7 @@ $admin = $_SESSION['username'];
 $activity = "DELETED";
 
 $activityRepository = new activityRepo();
-$activityRepository->saveActivityOnUser($admin,$activity,$username);
+$activityRepository->saveActivityOnUser($admin,$activity,$username); 
 
 
 
