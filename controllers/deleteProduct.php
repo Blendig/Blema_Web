@@ -1,6 +1,6 @@
 <?php
 
-session_start();
+session_start(); 
 $productId = $_GET['id'];
 include_once '../repository/productsRepo.php';
 
