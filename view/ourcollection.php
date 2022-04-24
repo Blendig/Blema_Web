@@ -20,7 +20,7 @@
                 
                 <div class="hoodies">
                     <p class="titulli">LIVIN' IN THE 80s</p>
-                    <pre class="pershkrimi" >LIVIN' IN THE 80s is our newest collection, which represents the beautiful aesthetics of 80s through our clothes.</pre> <br> <br>
+                   <pre class="pershkrimi" >LIVIN' IN THE 80s is our newest collection, which represents the beautiful aesthetics of 80s through our clothes.</pre> <br> <br>
                 
                         
 
