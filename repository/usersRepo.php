@@ -57,7 +57,7 @@ include_once '../database/databaseConnection.php';
 	        $role = $user->getRole();
 
 	        $sql = "INSERT INTO users (Emri,Mbiemri,Username,Email,Password,Role) VALUES (?,?,?,?,?,?)";
-
+ 
 	        $statement = $connect->prepare($sql);
 
 	        $statement->execute([$fname,$lname,$username,$email,$password,$role]);
