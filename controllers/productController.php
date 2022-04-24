@@ -9,7 +9,7 @@ $admin = $_SESSION['username'];
          || empty($_POST['price'])){ 
         		echo "<script> alert('Fill All Fields!'); </script>";
     	}
-    	else{
+    	else{ 
     		$productName = $_POST['productName'];
             $productText = $_POST['productText'];
             $price = $_POST['price'];
