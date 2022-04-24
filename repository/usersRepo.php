@@ -27,7 +27,7 @@ include_once '../database/databaseConnection.php';
         	}else{
         		return true;
         	}
-		}
+		} 
 
 		function checkUsername($user){
 		    $connect = $this->connection;
