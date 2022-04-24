@@ -73,7 +73,7 @@ input {
 .accept-box {
     display: flex;
     align-items: center;
-    margin: auto;
+    margin: auto; 
     font-size: 15px;
 }
 
