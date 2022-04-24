@@ -47,7 +47,7 @@
               <input class="insertButton" type="submit" name="updateProductButton" value="UPDATE PRODUCT">      
             </div>  
         </form> 
-        <?php include_once '../controllers/productController.php';?>    
+        <?php include_once '../controllers/productController.php';?>      
     
         </main>
           <footer class="footer1">
