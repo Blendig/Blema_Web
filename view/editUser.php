@@ -10,7 +10,7 @@
         <link rel="stylesheet" href="../CSS/additionalitems.css"/>
         <link rel="stylesheet" href="../CSS/Dashboards.css"/>
         <style>
-            @import url('https://fonts.googleapis.com/css2?family=Orbitron&display=swap');
+            @import url('https://fonts.googleapis.com/css2?family=Orbitron&display=swap'); 
         </style>
     </head>
     <body class="body8">
