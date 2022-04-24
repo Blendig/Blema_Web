@@ -24,7 +24,7 @@ include_once '../database/databaseConnection.php';
 			$connect = $this->connection;
 			$data = date("Y-m-d h:i");
 
-			$sql = "INSERT INTO activitylog (Admin,Activity,User,Date_Time) VALUES (?,?,?,?)";
+			$sql = "INSERT INTO activitylog (Admin,Activity,User,Date_Time) VALUES (?,?,?,?)"; 
 		    $statement = $connect->prepare($sql);
 
 	        $statement->execute([$admin,$activity,$user,$data]);
