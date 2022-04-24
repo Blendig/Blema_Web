@@ -16,7 +16,7 @@
         <ul class="nav-list2">
             <list> <a class="active" href="profile.php"><b>GO BACK</b></list></a>
         </ul>
-            <div class="items">
+            <div class="items"> 
             <p class="titulli2">ADMIN PAGE (all users)</p>
             <pre class="pershkrimi2" >Here you can manage all the data</pre> <br> <br>
        
@@ -25,7 +25,7 @@
 	<center>
     <table>
 		<tr>
-			<th>ID</th>
+			<th>ID</th> 
 			<th>First Name</th>
 			<th>Last Name</th>
 			<th>Username</th>
