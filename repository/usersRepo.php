@@ -8,7 +8,7 @@ include_once '../database/databaseConnection.php';
 			$connect = new DatabaseConnection;  //instanc, ja kena lon emrin e njejt si $connect te klasa dtbConnection 
 												//se posht kena me barazu me $connection me $connect qe e kthen funksioni
 												//startConnection
-			$this->connection = $connect->startConnection();
+			$this->connection = $connect->startConnection(); 
 			//$connection pe barazon me $connect qe vjen frej funksionit startCon. 
 		}
 
