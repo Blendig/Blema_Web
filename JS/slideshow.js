@@ -1,4 +1,4 @@
-/* JS PER SLIDESHOW*/
+/* JS PER SLIDESHOW*/ 
 var images=['../Project/nike1.png', '../Project/nike2.png', '../Project/nike3.png', '../Project/nike4.png'];
 var i=0;
 function slideShow() {
@@ -11,5 +11,5 @@ function slideShow() {
     }
     setTimeout("slideShow()", 2000);
 }
-window.onload=slideShow;
+window.onload=slideShow; 
 
