@@ -41,7 +41,7 @@
                     8-15 AlphaNumeric Characters
                 </span>
                 <input type="password" name="password" id="password" placeholder="Enter password">
-                <input type="password" name="confirmPassword" id="confirmPassword" placeholder="Confirm password">
+                <input type="password" name="confirmPassword" id="confirmPassword" placeholder="Confirm password">    
             </div>
 
             <div class="accept-box">
@@ -49,10 +49,10 @@
                 <p>I accept the <a href="terms.php">Terms & Conditions</a></p>
             </div>
 
-            <div class="form-btns">
-            <input type="submit" class="signup" id="register" name="registerButton" value="REGISTER">
+            <div class="form-btns">  
+            <input type="submit" class="signup" id="register" name="registerButton" value="REGISTER">    
                 <div class="options">
-                    Already have an account? <a href="login.php">Login here</a>
+                    Already have an account? <a href="login.php">Login here</a>     
                 </div> 
             </div> 
 
