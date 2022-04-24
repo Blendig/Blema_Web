@@ -4,5 +4,5 @@ $('form').card({
  
     formSelectors: {
         nameInput: 'input[name="first-name"], input[name="last-name"]'
-    }
+    } 
 });
