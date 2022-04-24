@@ -4,7 +4,7 @@ include_once '../database/databaseConnection.php';
 	class usersRepo{ 
 		private $connection;
 
-		function __construct(){
+		function __construct(){ 
 			$connect = new DatabaseConnection; //instanc, ja kena lon emrin e njejt si $connect te klasa dtbConnection 
 												//se posht kena me barazu me $connection me $connect qe e kthen funksioni
 												//startConnection
