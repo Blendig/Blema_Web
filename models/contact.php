@@ -1,9 +1,9 @@
 <?php
-	class Contact{
+	class Contact{ 
 		private $name;
 		private $email;
 		private $phone;
-		private $message;
+		private $message; 
 
 		function __construct($name, $email, $phone,$message){
 			$this->name = $name;
