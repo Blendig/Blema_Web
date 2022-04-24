@@ -44,7 +44,7 @@ include_once '../database/databaseConnection.php';
 	    }
 
 	    function getAllProducts(){
-	        $connect = $this->connection;
+	        $connect = $this->connection; 
 
 	        $sql = "SELECT * FROM products";
 
