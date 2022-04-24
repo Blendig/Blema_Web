@@ -31,7 +31,7 @@
 		          <tr>
 		          	<th>ID</th>
 			        <th>Message</th>
-			          <th>Email</th>
+			          <th>Email</th> 
 		            </tr>
              <?php 
              include_once '../repository/contactRepo.php';
