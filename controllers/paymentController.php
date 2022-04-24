@@ -23,5 +23,5 @@ include_once '../models/payment.php';
 
             $paymentRepository->insertPayment($payment);
         }
-    }
+    } 
 ?>
