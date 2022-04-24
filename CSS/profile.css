@@ -1,0 +1,97 @@
+.body8{
+    background: linear-gradient(135deg, #ce0f6e, #1e46b4);
+    background-attachment: fixed;
+}
+.header1 {
+    height:40px; 
+    box-shadow: 6px 5px 5px rgba(255, 255, 0, 0.692);
+    display:flex; 
+    flex-direction: row; 
+    background-color:rgba(180, 9, 137, 0.377);
+}
+.nav-list1 a {
+    float: left;
+    color: black; 
+    text-align: center;
+    text-decoration: none;
+    padding: 13px;
+    font-size: 18px;
+    font-family: 'Orbitron', sans-serif;
+  }
+  .nav-list1 a:hover {
+    font-family: 'Orbitron', sans-serif;
+    color:rgb(255, 196, 0);
+  }
+  .nav-list1 a.active {
+    font-family: 'Orbitron', sans-serif;
+  } 
+
+
+.profileButton {
+  padding: 1rem 2rem;
+  font-family: 'Orbitron', sans-serif;
+  font-weight: 700;
+  background: rgb(255, 255, 255);
+  opacity: 0.6;
+  color: blueviolet;
+  border-radius: .5rem;
+  border-bottom: 2px solid blueviolet;
+  border-right: 2px solid blueviolet;
+  border-top: 2px solid white;
+  border-left: 2px solid white;
+  transition-duration: 1s;
+  transition-property: border-top, 
+     border-left, 
+     border-bottom,
+     border-right,
+     box-shadow;
+ }
+ 
+ .profileButton:hover {
+  border-top: 2px solid blueviolet;
+  border-left: 2px solid blueviolet;
+  border-bottom: 2px solid rgb(238, 103, 238);
+  border-right: 2px solid rgb(238, 103, 238);
+  box-shadow: rgba(240, 46, 170, 0.4) 5px 5px, rgba(240, 46, 170, 0.3) 10px 10px, rgba(240, 46, 170, 0.2) 15px 15px;
+ }
+    .h1{
+      font-family: 'Orbitron', sans-serif;
+      margin-left: 300px;
+    }
+
+    .profileText{
+      font-family: 'Orbitron', sans-serif;
+      color: #d488cf;
+      text-shadow: 1px 2px 2px black;
+
+    }
+    .titulli2
+    {
+        font-size: 32px;
+        letter-spacing: 10px;
+        color: #0e3742;
+        text-shadow: none;
+        text-transform: uppercase;
+        width: 100%;
+        text-align: center;
+        line-height: 0.70em;
+        animation: animates 5s infinite linear;
+        outline:none;
+    }
+    @keyframes animates 
+    {
+        0%,18%,20%,50.1%,60%,65.1%,80%,90.1%,92%
+        {
+            color: #350f4e81;
+            text-shadow: none;
+        }
+        18.1%,20.1%,30%,50%,60.1%,65%,80.1%,90%,92.1%,100%
+        {
+            color: rgb(255, 255, 255);
+            text-shadow: 0 0 10px #cf19cf,
+                         0 0 20px #a891e7,
+                         0 0 40px #a028cf,
+                         0 0 80px #9403f4,
+                         0 0 160px #f403ac;
+        }
+    }
