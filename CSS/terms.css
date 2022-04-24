@@ -1,7 +1,6 @@
 body{
-  background-color:#23074d;
-  background: -webkit-linear-gradient(to right, #cc3391, #23074d);
-  background: linear-gradient(to right, #530023, #4f33cc);
+  background: linear-gradient(135deg, #ce0f6e, #1e46b4);
+  background-attachment: fixed;
   margin: 0 auto;
 }
 .terms{
