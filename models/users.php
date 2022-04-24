@@ -23,7 +23,7 @@
    		}
 
     	function getLname(){
-        	return $this->lname;
+        	return $this->lname; 
    		}
 
    		function getUsername(){
