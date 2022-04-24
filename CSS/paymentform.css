@@ -4,7 +4,7 @@ body {
   background: -webkit-linear-gradient(to right, #cc3391, #23074d);
   background: linear-gradient(to right, #cc5333, #23074d);
   margin: 0 auto; 
-  width: 600px;
+  width: 600px; 
 }
 .body-text {
   padding: 0 20px 30px 20px;
