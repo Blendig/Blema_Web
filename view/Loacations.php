@@ -8,7 +8,7 @@
         <link rel="icon" href="../Project/Logo.JPG">
         <style>
     @import url('https://fonts.googleapis.com/css2?family=Orbitron&display=swap');
-    @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@900&display=swap');
+    @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@900&display=swap'); 
         </style>
     </head>
     <body class="body20">
