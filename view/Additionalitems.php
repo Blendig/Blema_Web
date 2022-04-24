@@ -44,12 +44,12 @@
       </div>
     </main>
           <footer class="footer1">
-            <div class="icons1">
+            <div class="icons1"> 
               <a href="https://www.facebook.com/BLEMA-online-shop-103995715490962" target="_blank"><i class="fa fa-facebook"></i></a>
               <a href="https://www.instagram.com/blemashop_online/" target="_blank"><i class="fa fa-instagram"></i></a>
               <a href="https://twitter.com/BlemaOnline" target="_blank"><i class="fa fa-twitter"></i></a>
               <a href="https://youtube.com/channel/UCzNIeuOqhnT6MOGhtTFVeHA" target="_blank"><i
-                      class="fa fa-youtube"></i></a>
+                      class="fa fa-youtube"></i></a> 
           
             </div>
             <br>
