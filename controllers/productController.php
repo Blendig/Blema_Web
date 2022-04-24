@@ -25,9 +25,9 @@ $admin = $_SESSION['username'];
                 $activity = "INSERTED";
 
                 $activityRepository = new activityRepo();
-                $activityRepository->saveActivityOnProduct($admin,$activity,$productName);
+                $activityRepository->saveActivityOnProduct($admin,$activity,$productName); 
 
-                header("location:manageProducts.php");
+                header("location:manageProducts.php"); 
             }
 
         }
