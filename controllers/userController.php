@@ -6,7 +6,7 @@ include_once '../models/users.php';
 	   	$userId = $_GET['id'];
 		  $userRepository = new usersRepo();
 
-	    $fname = $_POST['fname'];
+	    $fname = $_POST['fname']; 
 	    $lname = $_POST['lname'];
 	    $username = $_POST['username'];
 	    $email = $_POST['email'];
