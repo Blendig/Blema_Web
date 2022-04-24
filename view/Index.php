@@ -20,7 +20,7 @@
                 <div class="nav-div"> 
                 <ul class="nav-list">
                 <?php if(isset($_SESSION['username'])){
-                    echo "<list> <a class='active' href='Index.php'>HOME</list></a>
+                    echo "<list> <a class='active' href='Index.php'>HOME</list></a> 
                     <list> <a href='register.php' target='_self'>REGISTER</list></a>
                     <list> <a href='ourcollection.php' target='_self'>SHOP NOW</list></a>
                     <list> <a href='Login.php' target='_self'>LOG IN</list></a>
