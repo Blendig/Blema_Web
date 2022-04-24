@@ -21,7 +21,7 @@
         <a href="ourcollection.php">Shop Now</a>
       </div>
       <div class="imgBx">
-        <img src="../Project/karta.png">
+        <img src="../Project/karta.png"> 
       </div>
     </div>
     <ul class="sci">
