@@ -47,7 +47,7 @@
     
                 <div class="box2">
                     <list><?php if(isset($_SESSION['username'])){
-					echo "<p class='nav-link'><a href='profile.php'>".$_SESSION['username']." Profile</a></p> 
+					echo "<p class='nav-link'><a href='profile.php'>".$_SESSION['username']."'s Profile</a></p> 
                     <list id='linku1' ><a href='ourcollection.php' target='_self' id='linku1'>OUR COLLECTION</a> </list>
                     <list id='linku2' ><a href='collaborations.php' target='_self' id='linku2'>COLLABORATIONS</a> </list>
                     <list id='linku3' ><a href='Additionalitems.php' id='linku3'>ADDITIONAL ITEMS</a></list>
